@@ -1,0 +1,6 @@
+{
+  "viewportWidth": 2000,
+  "viewportHeight": 1200,
+  "baseUrl": "https://eleasing-realestatedoc-uat.azurewebsites.net",
+  "chromeWebSecurity": false
+}
